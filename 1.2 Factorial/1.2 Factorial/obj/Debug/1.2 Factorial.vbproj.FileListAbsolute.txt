@@ -1,0 +1,13 @@
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\bin\Debug\1.2 Factorial.exe.config
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\bin\Debug\1.2 Factorial.exe
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\bin\Debug\1.2 Factorial.pdb
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\bin\Debug\1.2 Factorial.xml
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\obj\Debug\1.2 Factorial.vbproj.AssemblyReference.cache
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\obj\Debug\1.2 Factorial.vbproj.SuggestedBindingRedirects.cache
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\obj\Debug\_1._2_Factorial.Form1.resources
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\obj\Debug\_1._2_Factorial.Resources.resources
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\obj\Debug\1.2 Factorial.vbproj.GenerateResource.cache
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\obj\Debug\1.2 Factorial.vbproj.CoreCompileInputs.cache
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\obj\Debug\1.2 Factorial.exe
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\obj\Debug\1.2 Factorial.xml
+D:\BCA\4th Semester\RAD\1.2 Factorial\1.2 Factorial\obj\Debug\1.2 Factorial.pdb

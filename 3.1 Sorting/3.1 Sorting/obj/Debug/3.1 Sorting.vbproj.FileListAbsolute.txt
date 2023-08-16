@@ -1,0 +1,13 @@
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\bin\Debug\3.1 Sorting.exe.config
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\bin\Debug\3.1 Sorting.exe
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\bin\Debug\3.1 Sorting.pdb
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\bin\Debug\3.1 Sorting.xml
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\obj\Debug\3.1 Sorting.vbproj.AssemblyReference.cache
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\obj\Debug\3.1 Sorting.vbproj.SuggestedBindingRedirects.cache
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\obj\Debug\_3._1_Sorting.Form1.resources
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\obj\Debug\_3._1_Sorting.Resources.resources
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\obj\Debug\3.1 Sorting.vbproj.GenerateResource.cache
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\obj\Debug\3.1 Sorting.vbproj.CoreCompileInputs.cache
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\obj\Debug\3.1 Sorting.exe
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\obj\Debug\3.1 Sorting.xml
+D:\BCA\4th Semester\RAD\3.1 Sorting\3.1 Sorting\obj\Debug\3.1 Sorting.pdb

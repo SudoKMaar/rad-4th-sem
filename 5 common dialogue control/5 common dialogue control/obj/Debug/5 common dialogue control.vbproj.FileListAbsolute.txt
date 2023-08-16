@@ -1,0 +1,13 @@
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\obj\Debug\5 common dialogue control.vbproj.AssemblyReference.cache
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\obj\Debug\5 common dialogue control.vbproj.SuggestedBindingRedirects.cache
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\obj\Debug\_5_common_dialogue_control.Form1.resources
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\obj\Debug\_5_common_dialogue_control.Resources.resources
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\obj\Debug\5 common dialogue control.vbproj.GenerateResource.cache
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\obj\Debug\5 common dialogue control.vbproj.CoreCompileInputs.cache
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\bin\Debug\5 common dialogue control.exe.config
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\bin\Debug\5 common dialogue control.exe
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\bin\Debug\5 common dialogue control.pdb
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\bin\Debug\5 common dialogue control.xml
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\obj\Debug\5 common dialogue control.exe
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\obj\Debug\5 common dialogue control.xml
+D:\BCA\4th Semester\RAD\5 common dialogue control\5 common dialogue control\obj\Debug\5 common dialogue control.pdb

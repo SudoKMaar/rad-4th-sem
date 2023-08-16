@@ -1,0 +1,14 @@
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\bin\Debug\Lab Manual.exe.config
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\bin\Debug\Lab Manual.exe
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\bin\Debug\Lab Manual.pdb
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\bin\Debug\Lab Manual.xml
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab Manual.vbproj.AssemblyReference.cache
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab Manual.vbproj.SuggestedBindingRedirects.cache
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab_Manual.Form1.resources
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab_Manual.Resources.resources
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab Manual.vbproj.GenerateResource.cache
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab Manual.vbproj.CoreCompileInputs.cache
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab Manual.exe
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab Manual.xml
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab Manual.pdb
+D:\BCA\4th Semester\RAD\Lab Manual\Lab Manual\obj\Debug\Lab_Manual.Form2.resources
